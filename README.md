@@ -1,10 +1,3 @@
-Got it 🙂
-I’ll simplify the **README** and keep the **Steganographic File Integrity Checker** mention minimal — just listing it as a submitted deliverable without going into technical details.
-
-Here’s your **clean, copy-paste ready README**:
-
----
-
 # DigiSuraksha Internship 2025 – Ishan Chowdhury
 
 ## 📄 Submitted Documents
@@ -54,7 +47,6 @@ The **DigiSuraksha Internship Program** focuses on **practical cybersecurity tra
 
 This internship helped me strengthen my skills in cybersecurity through diverse projects and weekly deliverables. I gained experience in malware analysis, OSINT, NIDS/IPS, cryptography, and secure Python development.
 
----
 
 ## 📬 Contact
 
